@@ -1,8 +1,8 @@
 # 📊 Tech Layoffs 2020–2024
 
-This project analyzes global tech layoffs between 2020–2024.  
-I used **SQL (SQLite3)** for cleaning and analysis, and built an **interactive Tableau dashboard** to uncover trends across companies, industries, and countries.  
+This project analyzes global tech layoffs between 2020–2024, providing actionable insights for business leaders, investors, and policy makers to make informed decisions.
 
+I used **SQL (SQLite3)** for cleaning and analysis, and built an **interactive Tableau dashboard** to uncover trends across companies, industries, and countries.  
 
 
 ## 📑 Table of Contents
