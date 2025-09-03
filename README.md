@@ -8,4 +8,4 @@ Check out the full **[Kaggle Notebook](https://www.kaggle.com/code/wilfridawere/
 
 To interact with this Dashboard check out **[Tech Layoffs 2020-2024 Dashboard](https://public.tableau.com/app/profile/wilfrida.were/viz/TechLayoffs2020-2024_17198461868990/TECHLAYOFFS2020-2024)** on my Tableau public profile.
 
-![Alt text](./TECH LAYOFFS 2020-2024.png) 
+![Alt text](./TECH%20LAYOFFS%202020-2024.png) 
