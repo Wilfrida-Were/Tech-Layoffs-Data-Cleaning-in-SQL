@@ -43,21 +43,19 @@ Preview (click image to open dashboard):
 
 ## 👥 Who Can Use This Project?
 
-- **Job Seekers** → Identify resilient industries & countries before applying.  
-- **Investors & Analysts** → Spot risky vs. stable tech sectors for portfolio decisions.  
-- **Founders / Business Leaders** → Benchmark against industry-wide layoff patterns.  
-- **Policy Makers** → Design reskilling & support programs for affected regions.  
-- **Educators & Learners** → Use the dataset, SQL scripts, and dashboard as a case study.  
-
+- **Job Seekers** → Identify industries and regions that have been more stable and target opportunities accordingly.  
+- **Investors & Analysts** → Understand sector-level risks and spot trends to inform investment decisions.
+- **Founders / Business Leaders** → Benchmark company or industry performance to inform hiring or scaling strategies. 
+- **Policy Makers** → Design reskilling and support programs for regions or industries disproportionately affected. 
+- **Educators & Learners** → Use the dataset, SQL scripts, and dashboard as a case study for data analysis, visualization, and business insights.
 
 
 ## ✅ Quick Recommendations
 
-- **For Job Seekers:** Explore opportunities in **Finance & Hardware**, which show relative stability.  
-- **For Investors:** Diversify away from **Consumer/Retail tech** until market volatility stabilizes.  
-- **For Founders:** Plan conservative hiring strategies in high-layoff industries.  
-- **For Policy Makers:** Focus reskilling initiatives on **India’s 27K+ impacted workforce**.  
-
+- **For Job Seekers:** Focus on industries that have shown relative stability, such as **Finance and Hardware**. Understanding which sectors are less affected by layoffs can help you target applications more strategically and avoid volatile sectors 
+- **For Investors:** Be cautious with **Consumer and Retail** tech sectors, which have seen higher layoffs. Consider diversifying your investments across more stable industries to reduce exposure to market volatility.  
+- **For Founders:** Use industry-wide layoff trends to **inform hiring and scaling decisions**. In sectors with high layoffs, consider conservative hiring strategies, flexible staffing, or scenario planning to mitigate business risk.  
+- **For Policy Makers:** Target **reskilling and workforce support programs** in regions most affected by layoffs. Those regions could benefit from training programs in emerging or stable sectors to improve employment outcomes. 
 
 
 ## ⚙️ Tech Stack
