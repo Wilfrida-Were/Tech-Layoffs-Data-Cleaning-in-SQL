@@ -5,6 +5,9 @@ This project analyzes global tech layoffs from 2020–2024, uncovering trends ac
 
 I used **SQL (SQLite3)** for cleaning and analysis, and built an **interactive Tableau dashboard** to uncover trends across companies, industries, and countries.  
 
+For those who want to explore the full code, data cleaning, and analysis workflow, you can view the complete **Kaggle Notebook** here:
+
+👉 [Tech Layoffs 2020–2024 Notebook on Kaggle](https://www.kaggle.com/code/wilfridawere/tech-layoffs-data-cleaning-in-sql)
 
 ## 📑 Table of Contents
 1. [Interactive Dashboard](#-interactive-dashboard)  
